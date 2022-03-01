@@ -33,7 +33,7 @@ class _ChatScreenState extends State<ChatScreen> {
       }
     } catch(e){
 
-      // print(e);
+      print(e);
     }
   }
   // void messagestream()async{
