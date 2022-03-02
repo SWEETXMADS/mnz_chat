@@ -124,7 +124,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
               SizedBox(
                 height: 4.0,
               ),
-              Image.network('https://c.tenor.com/ai9vo6u0LbMAAAAj/tag-tag-register-with-us.gif',height: 100,width: 500,),
+              Image.asset('images/welcome.gif'),
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 16.0),
                 child: Material(

@@ -127,7 +127,7 @@ class _LoginScreenState extends State<LoginScreen> {
               SizedBox(
                 height: 14.0,
               ),
-              Image.network('https://c.tenor.com/cg0h-BiFJ5gAAAAd/star-wars-baby-yoda.gif',height: 300,width: 300,),
+              Image.asset('images/login.gif'),
               Padding(
                 padding: EdgeInsets.symmetric(vertical: 16.0),
                 child: Material(
